@@ -1,0 +1,17 @@
+  0--没有棋子  
+
+  1--黑将，King
+  2--黑車，Car
+  3--黑馬，Horse
+  4--黑象，Elephant
+  5--黑士，Bishop
+  6--黑炮，Cannon
+  7--黑卒，Pawn
+
+  8--红帅，King
+  9--红車，Car
+10--红馬，Horse
+11--红相，Elephant
+12--红士，Bishop
+13--红炮，Cannon
+14--红兵，Pawn
